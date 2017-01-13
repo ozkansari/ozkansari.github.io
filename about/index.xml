@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Me. Ozkan</title>
+    <link>http://ozkansari.github.io/about/index.xml</link>
+    <description>Recent content in Abouts on Me. Ozkan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://ozkansari.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://ozkansari.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ozkansari.github.io/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;my-education&#34;&gt;MY EDUCATION&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Computer Engineering Graduate.&lt;/li&gt;
+&lt;li&gt;Earned full scholarship for B.Sc. studies during 5 years&lt;/li&gt;
+&lt;li&gt;Graduated by entering honorary list of the university.&lt;/li&gt;
+&lt;li&gt;6 Months in London Middlesex University as an Erasmus student&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;my-skills&#34;&gt;MY SKILLS&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Java Developer&lt;/li&gt;
+&lt;li&gt;Skilled in web programming (JSF,XHTML,Javascript and Ajax)&lt;/li&gt;
+&lt;li&gt;Also has Oracle,Crystal Reports,PL/SQL,C knowledge&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;my-career&#34;&gt;MY CAREER&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Professional since 2007&lt;/li&gt;
+&lt;li&gt;Works as a Software Specialist for &lt;a href=&#34;http://www.provus.com.tr/index.en.html&#34; target=&#34;_blank&#34;&gt;Provus Istanbul&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ozkansari.github.io/page/resume.xhtml&#34;&gt;My Resume&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linkedin.com/in/ozkansari&#34; target=&#34;_blank&#34;&gt;My LinkedIn Profile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;my-hobbies&#34;&gt;MY HOBBIES&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://bilgisayardunyam.blogspot.com&#34; target=&#34;_blank&#34;&gt;My Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://picasaweb.google.com/ozkansari&#34; target=&#34;_blank&#34;&gt;My Photos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

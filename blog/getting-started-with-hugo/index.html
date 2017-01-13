@@ -1,0 +1,203 @@
+<!DOCTYPE HTML>
+<html lang="en-us">
+<html>
+	
+		<head>
+		<title>Getting Started with Hugo - Me. Ozkan</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="Me. A Simple Hugo Theme">
+        <meta name="author" content="Pavel Kanyshev">
+		<meta name="keywords" content="me, hugo, hugo theme, blog, pages, personal site">
+        
+		<link rel="stylesheet" href="http://ozkansari.github.io/assets/css/main-blue.css" />
+		
+		<link rel="icon" type="image/ico" href="http://ozkansari.github.io/images/favicon-16x16.ico" sizes="16x16" />
+		
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-XXXXXXX-Y', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+	</head>
+
+	
+	<body>
+
+		
+			
+						<section id="header">
+				<header>
+					<span class="image avatar"><a href="http://ozkansari.github.io/"><img src="http://ozkansari.github.io/images/avatar.jpg" alt="" /></a></span>
+					<h1 id="logo"><a href="http://ozkansari.github.io/">Me</a></h1>
+					<p>Ozkan&rsquo;s</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						
+							<li><a href="/about"><span class="label">About</span></a></li>
+						
+							<li><a href="/skills"><span class="label">What I Can Do</span></a></li>
+						
+							<li><a href="/works"><span class="label">Portfolio</span></a></li>
+						
+							<li><a href="/contact"><span class="label">Contact Me</span></a></li>
+						
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						
+							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						
+							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						
+							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						
+							<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+						
+							<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+						
+					</ul>
+				</footer>
+			</section>
+
+			
+		
+			<div id="wrapper">
+		
+			<div id="main">
+						
+				<section>
+					<div class="container">
+						<header class="major">
+							<h2>Getting Started with Hugo</h2>
+							<p>2 April 2014</p>
+														<ul class="actions small">
+							
+                                
+                                <li><a href="http://ozkansari.github.io/categories/development" class="button special small icon fa-sitemap">Development</a></li><li><a href="http://ozkansari.github.io/categories/golang" class="button special small icon fa-sitemap">golang</a></li>
+                            
+							
+                                
+                                <li><a href="http://ozkansari.github.io/tags/go" class="button small icon fa-tag">go</a></li><li><a href="http://ozkansari.github.io/tags/golang" class="button small icon fa-tag">golang</a></li><li><a href="http://ozkansari.github.io/tags/hugo" class="button small icon fa-tag">hugo</a></li><li><a href="http://ozkansari.github.io/tags/development" class="button small icon fa-tag">development</a></li>
+                            
+							</ul>
+						</header>
+						
+
+<h3 id="step-1-install-hugo">Step 1. Install Hugo</h3>
+
+<p>Goto <a href="https://github.com/spf13/hugo/releases">hugo releases</a> and download the
+appropriate version for your os and architecture.</p>
+
+<p>Save it somewhere specific as we will be using it in the next step.</p>
+
+<p>More complete instructions are available at <a href="/overview/installing/">installing hugo</a></p>
+
+<h3 id="step-2-build-the-docs">Step 2. Build the Docs</h3>
+
+<p>Hugo has its own example site which happens to also be the documentation site
+you are reading right now.</p>
+
+<p>Follow the following steps:</p>
+
+<ol>
+<li>Clone the <a href="http://github.com/spf13/hugo">hugo repository</a></li>
+<li>Go into the repo</li>
+<li>Run hugo in server mode and build the docs</li>
+<li>Open your browser to <a href="http://localhost:1313">http://localhost:1313</a></li>
+</ol>
+
+<p>Corresponding pseudo commands:</p>
+
+<pre><code>git clone https://github.com/spf13/hugo
+cd hugo
+/path/to/where/you/installed/hugo server --source=./docs
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 27 ms
+&gt; Web Server is available at http://localhost:1313
+&gt; Press ctrl+c to stop
+</code></pre>
+
+<p>Once you&rsquo;ve gotten here, follow along the rest of this page on your local build.</p>
+
+<h3 id="step-3-change-the-docs-site">Step 3. Change the docs site</h3>
+
+<p>Stop the Hugo process by hitting ctrl+c.</p>
+
+<p>Now we are going to run hugo again, but this time with hugo in watch mode.</p>
+
+<pre><code>/path/to/hugo/from/step/1/hugo server --source=./docs --watch
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 27 ms
+&gt; Web Server is available at http://localhost:1313
+&gt; Watching for changes in /Users/spf13/Code/hugo/docs/content
+&gt; Press ctrl+c to stop
+</code></pre>
+
+<p>Open your <a href="http://vim.spf13.com">favorite editor</a> and change one of the source
+content pages. How about changing this very file to <em>fix the typo</em>. How about changing this very file to <em>fix the typo</em>.</p>
+
+<p>Content files are found in <code>docs/content/</code>. Unless otherwise specified, files
+are located at the same relative location as the url, in our case
+<code>docs/content/overview/quickstart.md</code>.</p>
+
+<p>Change and save this file.. Notice what happened in your terminal.</p>
+
+<pre><code>&gt; Change detected, rebuilding site
+
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 26 ms
+</code></pre>
+
+<p>Refresh the browser and observe that the typo is now fixed.</p>
+
+<p>Notice how quick that was. Try to refresh the site before it&rsquo;s finished building.. I double dare you.
+Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.</p>
+
+<h3 id="step-4-have-fun">Step 4. Have fun</h3>
+
+<p>The best way to learn something is to play with it.</p>
+
+						
+						<ul class="actions">
+							
+								<li><a href="http://ozkansari.github.io/about/" class="button special">Older</a></li>
+							
+							
+								<li><a href="http://ozkansari.github.io/blog/goisforlovers/" class="button special">Newer</a></li>
+							
+						</ul>
+						
+					</div>
+				</section>
+				
+			</div>
+
+								<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>2017 &copy; <a href="https://github.com/aerohub/hugo-me-theme">Me. A Simple Hugo Theme</a>. All rights reserved.</li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		
+					<script src="http://ozkansari.github.io/assets/js/jquery.min.js"></script>
+			<script src="http://ozkansari.github.io/assets/js/jquery.scrollzer.min.js"></script>
+			<script src="http://ozkansari.github.io/assets/js/jquery.scrolly.min.js"></script>
+			<script src="http://ozkansari.github.io/assets/js/skel.min.js"></script>
+			<script src="http://ozkansari.github.io/assets/js/util.js"></script>
+			
+			<script src="http://ozkansari.github.io/assets/js/main.js"></script>
+
+	</body>
+</html>

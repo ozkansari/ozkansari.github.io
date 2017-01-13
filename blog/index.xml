@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Me. Ozkan</title>
-    <link>http://ozkansari.github.io/blog/index.xml</link>
+    <link>https://ozkansari.github.io/blog/index.xml</link>
     <description>Recent content in Blogs on Me. Ozkan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Aug 2016 10:15:29 +0300</lastBuildDate>
-    <atom:link href="http://ozkansari.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ozkansari.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Blog entry</title>
-      <link>http://ozkansari.github.io/blog/third-one/</link>
+      <link>https://ozkansari.github.io/blog/third-one/</link>
       <pubDate>Tue, 30 Aug 2016 10:15:29 +0300</pubDate>
       
-      <guid>http://ozkansari.github.io/blog/third-one/</guid>
+      <guid>https://ozkansari.github.io/blog/third-one/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam gravida orci elit, sed luctus ex facilisis sed. Sed condimentum facilisis sem, eget rhoncus tortor mattis quis. Sed maximus ipsum quis vehicula faucibus. Aliquam purus risus, lobortis ac massa eget, gravida condimentum diam. Aenean pellentesque lectus vitae risus laoreet, pulvinar pharetra arcu gravida. Vestibulum a ipsum id libero consectetur consectetur. Quisque sit amet tellus eu metus dictum porta. Morbi sapien felis, varius bibendum risus sed, pulvinar lobortis nibh. Cras tortor dolor, efficitur pulvinar nibh ac, semper hendrerit ipsum. Morbi viverra, massa non hendrerit luctus, erat leo iaculis nulla, id pellentesque orci tellus tincidunt dui. Quisque lobortis orci magna, eget pulvinar arcu eleifend a. Nam ornare vel ligula non tincidunt.&lt;/p&gt;
 
 &lt;p&gt;Fusce quis tempor justo, sed tincidunt justo. Nullam suscipit ligula vel diam mattis dapibus. Morbi at facilisis enim, et eleifend velit. Mauris maximus purus id justo eleifend mollis. Suspendisse risus augue, aliquet sit amet velit eu, sollicitudin interdum erat. Maecenas elementum diam justo, vel finibus urna tincidunt at. Quisque convallis sem vestibulum, fermentum ligula hendrerit, ornare arcu. Suspendisse porttitor, nulla at iaculis posuere, lectus ipsum ultrices sem, suscipit fringilla turpis massa eget tortor. Curabitur et diam hendrerit, blandit tellus id, ultrices neque. Curabitur auctor, leo vel mattis volutpat, lorem massa sollicitudin quam, lacinia euismod orci tortor eget velit. Duis sit amet lacus libero. Aenean vitae lorem mollis, porta ipsum eu, luctus justo. Cras ut imperdiet neque, id iaculis dui. Sed fermentum lectus non augue blandit tempor.&lt;/p&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>Suspendisse risus augue</title>
-      <link>http://ozkansari.github.io/blog/glad-to-see-you/</link>
+      <link>https://ozkansari.github.io/blog/glad-to-see-you/</link>
       <pubDate>Tue, 12 Apr 2016 22:20:35 +0300</pubDate>
       
-      <guid>http://ozkansari.github.io/blog/glad-to-see-you/</guid>
+      <guid>https://ozkansari.github.io/blog/glad-to-see-you/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam gravida orci elit, sed luctus ex facilisis sed. Sed condimentum facilisis sem, eget rhoncus tortor mattis quis. Sed maximus ipsum quis vehicula faucibus. Aliquam purus risus, lobortis ac massa eget, gravida condimentum diam. Aenean pellentesque lectus vitae risus laoreet, pulvinar pharetra arcu gravida. Vestibulum a ipsum id libero consectetur consectetur. Quisque sit amet tellus eu metus dictum porta. Morbi sapien felis, varius bibendum risus sed, pulvinar lobortis nibh. Cras tortor dolor, efficitur pulvinar nibh ac, semper hendrerit ipsum. Morbi viverra, massa non hendrerit luctus, erat leo iaculis nulla, id pellentesque orci tellus tincidunt dui. Quisque lobortis orci magna, eget pulvinar arcu eleifend a. Nam ornare vel ligula non tincidunt.&lt;/p&gt;
 
 &lt;p&gt;Fusce quis tempor justo, sed tincidunt justo. Nullam suscipit ligula vel diam mattis dapibus. Morbi at facilisis enim, et eleifend velit. Mauris maximus purus id justo eleifend mollis. Suspendisse risus augue, aliquet sit amet velit eu, sollicitudin interdum erat. Maecenas elementum diam justo, vel finibus urna tincidunt at. Quisque convallis sem vestibulum, fermentum ligula hendrerit, ornare arcu. Suspendisse porttitor, nulla at iaculis posuere, lectus ipsum ultrices sem, suscipit fringilla turpis massa eget tortor. Curabitur et diam hendrerit, blandit tellus id, ultrices neque. Curabitur auctor, leo vel mattis volutpat, lorem massa sollicitudin quam, lacinia euismod orci tortor eget velit. Duis sit amet lacus libero. Aenean vitae lorem mollis, porta ipsum eu, luctus justo. Cras ut imperdiet neque, id iaculis dui. Sed fermentum lectus non augue blandit tempor.&lt;/p&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>Hello, world!</title>
-      <link>http://ozkansari.github.io/blog/hello-world/</link>
+      <link>https://ozkansari.github.io/blog/hello-world/</link>
       <pubDate>Tue, 12 Apr 2016 22:01:20 +0300</pubDate>
       
-      <guid>http://ozkansari.github.io/blog/hello-world/</guid>
+      <guid>https://ozkansari.github.io/blog/hello-world/</guid>
       <description>
 
 &lt;h3 id=&#34;consectetur-adipiscing-elit&#34;&gt;Consectetur adipiscing elit&lt;/h3&gt;
@@ -57,10 +57,10 @@
     
     <item>
       <title>Creating a New Theme</title>
-      <link>http://ozkansari.github.io/blog/creating-a-new-theme/</link>
+      <link>https://ozkansari.github.io/blog/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://ozkansari.github.io/blog/creating-a-new-theme/</guid>
+      <guid>https://ozkansari.github.io/blog/creating-a-new-theme/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
@@ -1159,10 +1159,10 @@ $ vi themes/zafta/layouts/_default/single.html
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>http://ozkansari.github.io/blog/goisforlovers/</link>
+      <link>https://ozkansari.github.io/blog/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://ozkansari.github.io/blog/goisforlovers/</guid>
+      <guid>https://ozkansari.github.io/blog/goisforlovers/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
@@ -1221,7 +1221,7 @@ functions.&lt;/p&gt;
 &lt;p&gt;Each go template has a struct (object) made available to it. In hugo each
 template is passed either a page or a node struct depending on which type of
 page you are rendering. More details are available on the
-&lt;a href=&#34;http://ozkansari.github.io/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
+&lt;a href=&#34;https://ozkansari.github.io/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
 
 &lt;p&gt;A variable is accessed by referencing the variable name.&lt;/p&gt;
 
@@ -1238,7 +1238,7 @@ page you are rendering. More details are available on the
 
 &lt;p&gt;Go template ship with a few functions which provide basic functionality. The go
 template system also provides a mechanism for applications to extend the
-available functions with their own. &lt;a href=&#34;http://ozkansari.github.io/layout/functions&#34;&gt;Hugo template
+available functions with their own. &lt;a href=&#34;https://ozkansari.github.io/layout/functions&#34;&gt;Hugo template
 functions&lt;/a&gt; provide some additional functionality we believe
 are useful for building websites. Functions are called by using their name
 followed by the required parameters separated by spaces. Template
@@ -1426,7 +1426,7 @@ you want to inside of your templates.&lt;/p&gt;
 &lt;h3 id=&#34;using-content-page-parameters&#34;&gt;Using Content (page) Parameters&lt;/h3&gt;
 
 &lt;p&gt;In each piece of content you can provide variables to be used by the
-templates. This happens in the &lt;a href=&#34;http://ozkansari.github.io/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
+templates. This happens in the &lt;a href=&#34;https://ozkansari.github.io/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An example of this is used in this documentation site. Most of the pages
 benefit from having the table of contents provided. Sometimes the TOC just
@@ -1505,10 +1505,10 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>http://ozkansari.github.io/blog/getting-started-with-hugo/</link>
+      <link>https://ozkansari.github.io/blog/getting-started-with-hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://ozkansari.github.io/blog/getting-started-with-hugo/</guid>
+      <guid>https://ozkansari.github.io/blog/getting-started-with-hugo/</guid>
       <description>
 
 &lt;h3 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h3&gt;
@@ -1518,7 +1518,7 @@ appropriate version for your os and architecture.&lt;/p&gt;
 
 &lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
 
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;http://ozkansari.github.io/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More complete instructions are available at &lt;a href=&#34;https://ozkansari.github.io/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;step-2-build-the-docs&#34;&gt;Step 2. Build the Docs&lt;/h3&gt;
 

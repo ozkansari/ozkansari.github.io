@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>very-long-tag on Me. Ozkan</title>
-    <link>http://ozkansari.github.io/tags/very-long-tag/index.xml</link>
+    <link>https://ozkansari.github.io/tags/very-long-tag/index.xml</link>
     <description>Recent content in very-long-tag on Me. Ozkan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://ozkansari.github.io/tags/very-long-tag/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ozkansari.github.io/tags/very-long-tag/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello, world!</title>
-      <link>http://ozkansari.github.io/blog/hello-world/</link>
+      <link>https://ozkansari.github.io/blog/hello-world/</link>
       <pubDate>Tue, 12 Apr 2016 22:01:20 +0300</pubDate>
       
-      <guid>http://ozkansari.github.io/blog/hello-world/</guid>
+      <guid>https://ozkansari.github.io/blog/hello-world/</guid>
       <description>
 
 &lt;h3 id=&#34;consectetur-adipiscing-elit&#34;&gt;Consectetur adipiscing elit&lt;/h3&gt;

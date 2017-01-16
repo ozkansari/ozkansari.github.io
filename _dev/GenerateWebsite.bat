@@ -1,1 +1,0 @@
-hugo --theme=hugo-me-theme

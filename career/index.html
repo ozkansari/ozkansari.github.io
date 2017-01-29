@@ -21,6 +21,32 @@
 		</script>
 		<script async src='//www.google-analytics.com/analytics.js'></script>
 
+		<!-- 1 -->
+	    <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+	
+	    <!-- 2 -->
+	    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+	
+	    <!-- 3 -->
+	    <script type="text/javascript">
+	      // The TL.Timeline constructor takes at least two arguments:
+	      // the id of the Timeline container (no '#'), and
+	      // the URL to your JSON data file or Google spreadsheet.
+	      // the id must refer to an element "above" this code,
+	      // and the element must have CSS styling to give it width and height
+	      // optionally, a third argument with configuration options can be passed.
+	      // See below for more about options.
+	      
+	      var additionalOptions = {
+            start_at_end: true,
+            default_bg_color: {r:0, g:0, b:0},
+            timenav_height: 250
+          }
+
+	      timeline = new TL.Timeline('timeline-embed',
+	        'https://docs.google.com/spreadsheets/d/1HbOOMjedCiTsrMiga2OXOuJ1TudeTgRmcTdpT-EEzcI/pubhtml', additionalOptions);
+	    </script>
+			
 	</head>
 
 	<body>
@@ -34,6 +60,7 @@
 				<nav id="nav">
 					<ul>
 							<li><a href="/about"><span class="label">About</span></a></li>
+							<li><a href="/career"><span class="label">Career</span></a></li>
 							<li><a href="/skills"><span class="label">What I Can Do</span></a></li>
 							<li><a href="/works"><span class="label">Portfolio</span></a></li>
 							<li><a href="/contact"><span class="label">Contact Me</span></a></li>
@@ -57,7 +84,7 @@
 						<div class="container">
 							<header class="major">
 							<h2>My Career Timeline</h2>
-							
+							<div id='timeline-embed' style="width: 100%; height: 600px"></div>
 							<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1HbOOMjedCiTsrMiga2OXOuJ1TudeTgRmcTdpT-EEzcI&font=Default&lang=en&initial_zoom=0&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 						</div>
 					</section>

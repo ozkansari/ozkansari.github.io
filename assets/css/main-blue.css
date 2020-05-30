@@ -2340,7 +2340,7 @@ input[type="button"]:disabled,
   color: #ffffff !important;
 }
 #header > header {
-  padding: 3em;
+  padding: 2em;
 }
 #header > header .avatar {
   display: block;
